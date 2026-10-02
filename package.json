@@ -1,0 +1,14 @@
+
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "Node.js project for learning GitHub Actions and CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "run": "node test.js",
+    "test": "node test.js"
+  },
+  "keywords": ["devops", "ci-cd", "github-actions"],
+  "author": "Abbas Kazmi",
+  "license": "ISC"
+}
